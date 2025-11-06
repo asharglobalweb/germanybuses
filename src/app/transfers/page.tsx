@@ -8,13 +8,13 @@ import FinalCta from '../../components/FinalCtaSection'
 const transfer = {
     title: 'Door to Door',
     span: 'Transfers',
-    subTitle: 'Reliable transfers across France with Germany Buses — premium comfort, professional drivers, and on time service wherever you travel.',
+    subTitle: 'Reliable transfers across Germany with Germany Buses — premium comfort, professional drivers, and on time service wherever you travel.',
     image: '/images/transfer1.png',
 }
 
 const transferDetail = {
     h2: 'About Our Transfer Service',
-    title: 'Germany Buses offers smooth and comfortable door to door transfers across France. From airports and hotels to business venues and private destinations, our professional drivers ensure every journey is safe, punctual, and stress free.',
+    title: 'Germany Buses offers smooth and comfortable door to door transfers across Germany. From airports and hotels to business venues and private destinations, our professional drivers ensure every journey is safe, punctual, and stress free.',
     features: [
         'Meet and greet service included',
         'Real time flight and traffic tracking',

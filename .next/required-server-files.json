@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus france",
+    "outputFileTracingRoot": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus diff countries\\bus germany\\germanybuses",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -279,10 +279,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus france"
+      "root": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus diff countries\\bus germany\\germanybuses"
     }
   },
-  "appDir": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus france",
+  "appDir": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus diff countries\\bus germany\\germanybuses",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
