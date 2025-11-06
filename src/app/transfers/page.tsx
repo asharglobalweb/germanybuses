@@ -6,20 +6,20 @@ import FinalCta from '../../components/FinalCtaSection'
 // import PricingSection from '../../components/PricingSection'
 
 const transfer = {
-    title: 'Door to Door',
+    title: 'Door-to-Door',
     span: 'Transfers',
-    subTitle: 'Reliable transfers across Germany with Germany Buses — premium comfort, professional drivers, and on time service wherever you travel.',
+    subTitle: 'Reliable transfers across Germany by Germany Buses — premium comfort, professional drivers, and on-time service wherever you go.',
     image: '/images/transfer1.png',
 }
 
 const transferDetail = {
     h2: 'About Our Transfer Service',
-    title: 'Germany Buses offers smooth and comfortable door to door transfers across Germany. From airports and hotels to business venues and private destinations, our professional drivers ensure every journey is safe, punctual, and stress free.',
+    title: 'Travel in comfort and style with Germany Buses. Our door-to-door transfers cover airports, hotels, and corporate destinations across Germany — punctual, professional, and completely stress-free.',
     features: [
-        'Meet and greet service included',
-        'Real time flight and traffic tracking',
-        'Complimentary WiFi and refreshments',
-        'Fixed transparent pricing with no surprises'
+        'Meet & greet service included',
+        'Real-time flight and traffic tracking',
+        'Complimentary Wi-Fi and refreshments',
+        'Fixed, transparent pricing — no surprises'
     ],
     images: [
         { image: "/images/transfer2.png" },
